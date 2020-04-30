@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033370899329",
+    "firebase_url": "https://mayadata-hackathon-app.firebaseio.com",
+    "project_id": "mayadata-hackathon-app",
+    "storage_bucket": "mayadata-hackathon-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033370899329:android:68e4c055c033eaaec40e80",
+        "android_client_info": {
+          "package_name": "com.example.mayadata_test_chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033370899329-om110e56kkndki373s2bu5b6707q4sm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb-xGWx5gN08D-euEr25bXxYFZiyZHzns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033370899329-om110e56kkndki373s2bu5b6707q4sm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
