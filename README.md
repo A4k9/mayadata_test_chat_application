@@ -2,7 +2,9 @@
 
 Version locations:
  build\app\outputs\apk\release\app-armeabi-v7a-release.apk (6.4MB).
+ 
  build\app\outputs\apk\release\app-arm64-v8a-release.apk (6.7MB).
+ 
  build\app\outputs\apk\release\app-x86_64-release.apk (6.9MB).
  
 This is a Basic chat application made in flutter, for the problem statement:
