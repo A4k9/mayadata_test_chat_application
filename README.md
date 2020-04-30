@@ -18,5 +18,6 @@ of the Mayadata final campus recruitment drive at KIIT DU (30/04/2020) (develope
 
 To build the application in debug mode:
 
- cd /lib
- flutter run
+ >cd /lib
+ 
+ >flutter run
