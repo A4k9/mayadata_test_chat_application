@@ -1,6 +1,7 @@
 # mayadata_test_chat_application
 
 Version locations:
+
  build\app\outputs\apk\release\app-armeabi-v7a-release.apk (6.4MB).
  
  build\app\outputs\apk\release\app-arm64-v8a-release.apk (6.7MB).
